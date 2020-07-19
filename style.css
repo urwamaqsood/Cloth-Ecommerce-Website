@@ -5,4 +5,31 @@
 }
 html,body{
     height: 100%;
+    
 }
+
+.nav-item{
+    color: white !important;
+    font-size: 1rem;
+}
+.bg-dark{
+    background-color: black !important;
+}
+.bi-telephone-inbound-fill, .bi-person-fill, .bi-cart-fill{
+    margin-right: 6px !important;
+}
+.nav-pills .nav-link{
+    margin-top: 10% !important;
+    color: black !important;
+    margin-right: 75px !important;
+}
+.carousel-inner img {
+    margin-left: 10%;
+    width: 1000px;
+    height: 550px !important;
+  }
+  .card{
+      display: inline-block !important;
+  }
+  
+  
